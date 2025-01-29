@@ -1,0 +1,2 @@
+# SQL Query Error: Ignoring Rows Due to Extra Spaces
+This repository demonstrates a common SQL error where queries can miss rows if the data contains leading or trailing spaces. The `bug.sql` file shows a query that fails to find all rows in the 'Sales' department because it doesn't account for spaces. The solution in `bugSolution.sql` demonstrates how to fix this.
